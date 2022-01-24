@@ -25,7 +25,7 @@ users = {}
 
 
 def save_user(users_list: dict, user_data: dict) -> dict:
-    # TODO вставить код сюда
+
     return users_list
 
 
