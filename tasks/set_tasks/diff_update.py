@@ -7,7 +7,7 @@
 
 
 def diff_update(set_1: set, set_2: set) -> set:
-
+    set_1.difference_update(set_2)
     return set_1
 
 
